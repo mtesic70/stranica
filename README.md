@@ -1,0 +1,2 @@
+# stranica
+pocetna stranica
